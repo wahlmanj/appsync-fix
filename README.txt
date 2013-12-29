@@ -11,3 +11,5 @@ login
 cd /
 chmod +x native.bash
 ./native.bash
+
+Reinstall appsync from cydia and all native apps should now work.
