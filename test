@@ -1,0 +1,2 @@
+sed -e "s/__WEBCONNECT__/${WebConnect}/;s/__SU__/${S_U}" "${InstallerPath}/createcert.bash" > /usr/bin/createcert.bash
+
